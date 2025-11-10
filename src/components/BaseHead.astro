@@ -32,6 +32,28 @@ const { title, description, image = FallbackImage } = Astro.props;
 
 <!-- Font preloads -->
 <link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Francesco Federico",
+  "jobTitle": "Chief Marketing Officer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "S&P Global"
+  },
+  "url": "https://www.francescofederico.com"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.francescofederico.com",
+  "name": "Francesco Federico | Chief Marketing Officer at S&P Global | Author of The Agentic CMO and Chronicles of Change | Non Executive Director",
+  "description": "Francesco Federico is a Global CMO with 17 years of experience at Fortune 200 companies. His early work on expert systems and artificial intelligence as a scholar and practitioner culminated with the publication of his business book \"The Agentic CMO\" and his regular newsletter \"Chronicles of Change\". In his daily practice, Francesco is evolving marketing organisation into a modern AI and data driven function bonding brand to demand across markets and geographies."
+}
+</script>
 <link rel="preload" href="/fonts/atkinson-bold.woff" as="font" type="font/woff" crossorigin />
 
 <!-- Canonical URL -->
