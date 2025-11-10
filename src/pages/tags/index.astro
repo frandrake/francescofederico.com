@@ -1,0 +1,17 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+
+const pages = await getCollection('pages');
+const posts = await getCollection('blog');
+const allEntries = [...pages, ...posts];
+const tags = Array.from(new Set(allEntries.flatMap((entry) => entry.data.tags || [])));
+---
+
+<BaseHead title="Tags" description="Browse all tags" />
+<h1>Tags</h1>
+<ul>
+  {tags.map((tag) => (
+    <li><a href={`/tags/${tag}/`}>{tag}</a></li>
+  ))}
+</ul>
