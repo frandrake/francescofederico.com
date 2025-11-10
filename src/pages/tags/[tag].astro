@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  const posts = await getCollection('blog');
+  const allEntries = [...pages, ...posts];
+  const tags = new Set(allEntries.flatMap((entry) => entry.data.tags || []));
+  return Array.from(tags).map((tag) => ({ params: { tag } }));
+}
+
+const { tag } = Astro.params;
+const pages = await getCollection('pages');
+const posts = await getCollection('blog');
+const allEntries = [...pages, ...posts];
+const tagged = allEntries.filter((entry) => (entry.data.tags || []).includes(tag));
+---
+
+<BaseHead title={`Tag: ${tag}`} description={`Content tagged with ${tag}`} />
+<h1>Tag: {tag}</h1>
+<ul>
+  {tagged.map((entry) => (
+    <li><a href={`/${entry.slug}/`}>{entry.data.title}</a></li>
+  ))}
+</ul>
