@@ -1,0 +1,11 @@
+/* AUTHOR */
+Name: Francesco Federico
+Site: francescofederico.com
+Location: London, UK
+Twitter: N/A
+LinkedIn: linkedin.com/in/federicofrancesco/
+
+/* SITE */
+Standards: HTML5, CSS3
+Software: Hand-coded static HTML
+Language: English (British)

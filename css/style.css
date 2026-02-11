@@ -1405,6 +1405,20 @@ section { padding: calc(var(--grid) * 12) 0; }
   margin-bottom: 0;
 }
 
+/* SEO content section on homepage */
+.bio__seo {
+  max-width: 440px;
+  width: 100%;
+  margin-top: calc(var(--grid) * 6);
+  text-align: center;
+}
+.bio__seo p {
+  font-size: 0.75rem;
+  line-height: 1.7;
+  color: var(--steel-blue);
+  margin-bottom: 0;
+}
+
 /* =============================================
    SUBPAGE NAV — Minimal back-link
    ============================================= */

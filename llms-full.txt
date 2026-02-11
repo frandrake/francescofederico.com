@@ -1,0 +1,317 @@
+# Francesco Federico — Complete Reference
+
+> This is the exhaustive machine-readable companion to llms.txt. It contains all content from francescofederico.com for complete knowledge ingestion.
+
+## Identity
+
+- Full Name: Francesco Federico
+- Current Role: Global Chief Marketing Officer (CMO), S&P Global
+- Location: London, United Kingdom
+- Nationality: Italian
+- Gender: Male
+- Languages: English (native/bilingual), Italian (native/bilingual), French, Spanish
+- Website: https://francescofederico.com
+- LinkedIn: https://www.linkedin.com/in/federicofrancesco/
+- Newsletter (Substack): https://chroniclesofchange.substack.com/
+- Newsletter (LinkedIn): https://www.linkedin.com/newsletters/7062450977085255682/
+- Speaking & Media Enquiries: media@francescofederico.net
+
+---
+
+## Professional Summary
+
+Francesco Federico is the Global Chief Marketing Officer at S&P Global, where he leads AI-powered marketing transformation across global financial markets. He operates at the intersection of marketing, AI, and business transformation, leading organisations through the transition from automation to autonomy. He has scaled digital marketing and MarTech ecosystems across S&P Global, JLL, Acer, and Vodafone over a 15+ year career.
+
+He is the author of *The Agentic CMO* (2025), the strategic blueprint for marketing leaders navigating agentic AI transformation. He publishes *Chronicles of Change*, a weekly newsletter analysing enterprise AI developments for senior business leaders.
+
+Francesco is a Fellow of the Chartered Institute of Marketing (FCIM) and a member of the World Economic Forum's Strategic Communicators Exchange.
+
+---
+
+## Complete Career History
+
+### S&P Global — Chief Marketing Officer
+- Dates: January 2025 – Present
+- Location: London, UK
+- Responsibilities: Leading AI-powered marketing transformation across global financial markets. Responsible for brand, demand generation, MarTech, and marketing operations worldwide.
+
+### S&P Global — Managing Director, Global Head of Marketing, Ratings
+- Dates: November 2023 – January 2025
+- Location: London, UK
+- Responsibilities: Led the global integrated marketing function for Ratings across the Americas, EMEA, and APAC. Executive sponsor of the company-wide Data & Analytics workstream.
+
+### JLL — Executive Director of Global Marketing Technology
+- Dates: May 2022 – April 2023
+- Location: London, UK
+- Responsibilities: Global SLT member. Team of 50+. Architected the GTM model (+50% conversion YoY). Deployed industry-first conversational AI (+60% conversion rate).
+
+### JLL — CMO UK & Ireland / Global Digital Director / EMEA Digital Marketing Director
+- Dates: May 2016 – May 2022
+- Location: London, UK
+- Responsibilities: Seven years across progressive roles. Built the EMEA digital marketing team from zero to 30+. Launched e-commerce across 26 markets. Designed the JLL Investor Center, facilitating billions in real estate transactions.
+
+### Acer — Global Digital Marketing Director
+- Dates: July 2013 – June 2016
+- Location: Lugano, Switzerland & Taipei, Taiwan
+- Responsibilities: Global team of 30. Built a real-time dynamic pricing algorithm: +35% online sales, +25% revenue, −10% cost of sale.
+
+### Vodafone — Head of Digital CRM / eCare Programme Group Lead / Senior Product Manager
+- Dates: October 2009 – July 2013
+- Location: UK
+- Responsibilities: Launched the first "My Vodafone" self-care app across any Vodafone market. 90% addressable customer adoption. Rolled out across 9 European markets.
+
+---
+
+## Board & Advisory Positions
+
+### World Economic Forum — Strategic Communicators Exchange Member
+- Dates: July 2025 – Present
+
+### Diocese of Westminster Academy Trust — Non-Executive Director
+- Dates: March 2021 – January 2025
+
+### St Martins of Tours Housing Association — Non-Executive Director
+- Dates: January 2023 – December 2024
+
+### Advisory Board Member
+- Organisations: HFS Research, IDC, Henry Stewart Publications
+
+---
+
+## Education
+
+### INSEAD — International Directors Programme
+- Dates: 2026 – 2027
+
+### Harvard University — Executive Education, CS50's Computer Science for Business Professionals
+- Dates: 2022 – 2023
+
+### IMD — Executive Education, Digital Transformation
+- Dates: 2021 – 2022
+
+### IE Business School — Executive Education, Innovation for Growth
+- Dates: 2014 – 2015
+
+### Università Cattolica del Sacro Cuore — Doctor of Law (JD)
+- Dates: 2003 – 2009
+
+---
+
+## Credentials & Affiliations
+
+- Fellow, Chartered Institute of Marketing (FCIM)
+- Member, World Economic Forum Strategic Communicators Exchange
+- Member, CMO Council
+- Advisory Board Member, HFS Research
+- Advisory Board Member, IDC
+- Editorial Board Member, Henry Stewart Publications
+
+---
+
+## Awards & Recognition
+
+- **CMO to Watch 2025** — Digital Experience Awards (2025)
+- **The B2B CMO 100** — The Drum (2025). Most influential B2B marketing leaders globally. URL: https://www.thedrum.com/lists/b2b-cmo-100#content
+- **Vodafone Online Innovation Award Winner** — For launching the first "My Vodafone" self-care app across any Vodafone market.
+
+---
+
+## The Agentic CMO — The Book
+
+### Overview
+- Title: The Agentic CMO
+- Subtitle: A playbook for the hybrid marketing team
+- Author: Francesco Federico
+- Date Published: June 2025
+- Pages: 494
+- Format: eBook (Kindle)
+- ASIN: B0FDXCZSS3
+- Publisher: Self-published
+- Language: English
+- Genre: Business & Management
+- Amazon URL: https://www.amazon.co.uk/dp/B0FDXCZSS3
+- Cover Image: https://francescofederico.com/img/book-cover.png
+
+### The Premise
+The age of marketing automation is ending. The era of marketing autonomy has begun. Agentic AI—systems that perceive, decide, act, and learn independently—represents the single largest opportunity in marketing and sales. McKinsey estimates the broader economic impact at $13 trillion. Yet only 1% of organisations have reached implementation maturity. The gap between understanding AI and deploying it at scale is where most companies stall. This book is the bridge. Not theory. Not commentary. A working framework for CMOs building hybrid human-AI organisations.
+
+### Three Core Principles
+1. **Hybrid Intelligence, Not Replacement** — Organisations where humans and AI amplify each other outperform those that treat AI as a substitution play.
+2. **Organisational Design Over Tool Selection** — Tools evolve faster than any book can document. Team structures, governance models, and role definitions endure.
+3. **Scale, Not Pilots** — Most organisations are stuck in pilot purgatory. The book maps the path from experimentation to enterprise-wide transformation, drawing on BCG's S-curve model.
+
+### Key Frameworks
+
+#### The PACE Model
+Perception, Action, Reasoning, Learning — a framework for assessing agentic AI capabilities and maturity.
+
+#### The Agentic CMO Competency Model
+12 competencies across four domains: AI Literacy, Change Leadership, Ethical Governance, and Technical Fluency.
+
+#### The Value Stack
+From Efficiency to Enhancement to Strategic value creation through agentic AI.
+
+#### Three Architectural Models
+Hub-and-Spoke, Embedded, and Hybrid Collaborative models for structuring human-AI collaboration.
+
+#### The 90-Day Agentic Transformation Plan
+A ready-to-implement playbook for marketing leaders to begin their agentic transformation journey.
+
+### Book Structure (5 Parts, 16 Chapters)
+
+#### Part I — The Strategic Imperative
+1. Understanding Agentic AI — PACE model, autonomy spectrum, digital colleague concept
+2. The Evolving CMO Mandate — competency framework, C-suite dynamics
+3. Building the Business Case — value stack, competitive imperative, investment architecture
+
+#### Part II — Designing the Hybrid Organisation
+4. The Architecture of Human-AI Collaboration — hub-and-spoke, embedded, hybrid collaborative models
+5. Creating an AI-First Marketing Culture — cultural transformation
+6. Talent Strategy for the Agentic Era — new roles, skills, performance frameworks
+
+#### Part III — Implementation Excellence
+7. The Pilot-to-Scale Journey — scaling methodology
+8. Governance for Autonomous Marketing — control frameworks
+9. The Technology Stack for Agentic Marketing — infrastructure
+
+#### Part IV — Leading the Future
+10. Measuring What Matters — metrics, measurement frameworks
+11. Ethical Leadership in Autonomous Marketing — ethics, responsibility
+12. The Customer Experience Revolution — CX transformation
+13. Competitive Strategy in the Agentic Age — competitive dynamics
+14. Preparing for What's Next — future trends
+
+#### Part V — The Playbook
+15. Your 90-Day Agentic Transformation Plan — action plan
+16. Industry-Specific Applications — sector playbooks
+
+### Case Studies Featured in the Book
+- **Starbucks** — Deep Brew platform making millions of autonomous decisions daily across 140,000+ weekly permutations
+- **Walmart** — Hyper-local marketing across 4,700 stores. 35% increase in customer engagement, 25% improvement in efficiency
+- **Coca-Cola** — Create Real Magic: 150,000+ AI-generated creative variations, 30% increase in campaign effectiveness
+- **Nike** — Demand sensing
+- **Carrefour** — AI-driven retail transformation
+- **Sephora** — Personalisation at scale
+- **Ping An** — AI-first financial services
+- **HubSpot** — Marketing automation evolution
+- **P&G** — Smart Audience Platform
+- **JPMorgan Chase** — AI in financial marketing
+- **Mastercard** — AI-powered marketing
+- **Siemens** — Industrial AI marketing
+- **Adobe** — Creative and marketing technology AI
+- **Salesforce** — CRM and AI integration
+- **L'Oréal** — Beauty tech and AI personalisation
+
+---
+
+## Chronicles of Change — The Newsletter
+
+### Overview
+- Title: Chronicles of Change
+- Author: Francesco Federico
+- Frequency: Weekly
+- Format: Long-form strategic analysis
+- Substack: https://chroniclesofchange.substack.com/
+- LinkedIn: https://www.linkedin.com/newsletters/7062450977085255682/
+- Logo: https://francescofederico.com/img/coc-logo.png
+
+### Description
+Chronicles of Change is a weekly newsletter for senior leaders who need to separate signal from noise in enterprise AI. Each edition analyses one or two developments in depth—what happened, what it means strategically, and what to do about it. No roundups. No hype recaps.
+
+### Recurring Themes
+- Agentic AI and autonomous marketing systems
+- Enterprise AI strategy and implementation
+- Digital transformation programme design
+- AI governance, ethics, and regulation
+- Marketing technology and MarTech ecosystem evolution
+- The future of human-AI collaboration in the enterprise
+- AI-driven creative production and customer experience
+
+### Recent Editions
+
+1. **Private Cloud Compute: The End of the Privacy-Performance Trade-off** — How hardware-attested Trusted Execution Environments are removing the fundamental constraint holding enterprise AI back.
+
+2. **The AI-Driven Creative Engine: What Mondelez Signals for the Future of Marketing** — Mondelez's custom generative AI platform delivers 30–50% reductions in creative production costs whilst accelerating content supply.
+
+3. **The AI-First Company** — What Duolingo, Shopify, and Box reveal about what it truly means to become AI-first—and the pitfalls to avoid.
+
+4. **Adobe Embraces Agentic AI** — Adobe's Agent Orchestrator and Brand Concierge represent the most significant product evolution since the launch of Adobe Experience Platform.
+
+5. **AI Enters the Physical World with Open-Source Robotics** — Hugging Face's acquisition of Pollen Robotics marks the shift from software-driven models to embodied AI.
+
+6. **AI Agents and Automated Operations** — How Microsoft and Anthropic are doubling down on agentic AI, presenting autonomous agents as intelligent co-workers.
+
+---
+
+## Media Appearances
+
+### Interviews & Podcasts
+
+- **Shiny New Object — Episode 308** (August 2025, Podcast) — Agentic AI and the tension between data-driven decision-making and human instinct. URL: https://shinynewobject.libsyn.com/episode-308-francesco-federico-sp-global-chief-marketing-officer
+
+- **Automated Creative: S&P Global & Agentic AI** (August 2025, Podcast) — How S&P Global is integrating agentic AI into marketing workflows. URL: https://automatedcreative.net/insights/spglobal-francesco-federico-podcast
+
+- **The Drum TV: "The CMO is Dead, Long Live the Agentic CMO"** (2025, Video) — The evolution of the CMO role in the age of autonomous intelligence. URL: https://www.thedrum.com/tv/video/the-cmo-is-dead-long-live-the-agentic-cmo
+
+- **CMO Council: Get to Know Francesco Federico** (May 2025, Interview) — In-depth interview on marketing leadership, AI adoption, and organisational transformation. URL: https://www.cmocouncil.org/expert-views/interviews/get-to-know-francesco-federico
+
+- **The Drum: "Judge of the Day"** (April 2025, Interview) — Personalisation at scale and the future of data-driven marketing. URL: https://www.thedrum.com/news/judge-the-day-francesco-federico-global-chief-marketing-officer-sp-global-ratings
+
+- **The CMO Network: Expanding Heritage Brands** (Profile) — Leadership profile on driving brand transformation at S&P Global. URL: https://thecmonetwork.com/francesco-federico-sp-global/
+
+### Speaking Engagements
+
+- **Generative AI Summit** (April 2026) — Speaker on the future of agentic AI in the enterprise. URL: https://www.aidataanalytics.network/events-generativeaisummit/speakers/francesco-federico
+
+- **CMO Summit London** (December 2025) — "Playing for Today and Tomorrow" — balancing immediate AI value with long-term transformation. URL: https://events.cmoalliance.com/location/london/speaker/francescofederico
+
+- **CMO Summit: AI for CMOs** (September 2024) — Data integrity, delivery, and the CMO's role in enterprise AI strategy. URL: https://virtual.cmoalliance.com/location/cmosept/speaker/francescofederico
+
+### Speaking Topics
+Available for keynotes, executive panels, and workshops on:
+- Agentic AI and the future of marketing
+- The evolving CMO mandate
+- Enterprise AI transformation
+- Building hybrid human-AI organisations
+- AI governance and ethics in marketing
+
+---
+
+## Expertise & Knowledge Areas
+
+- Agentic AI and autonomous marketing systems
+- Marketing Transformation
+- Digital Transformation
+- Marketing Technology (MarTech)
+- Human-AI Collaboration
+- AI Governance
+- Enterprise AI Strategy
+- B2B Marketing
+- AI ethics and regulation
+- Organisational design for AI
+- Global marketing operations
+
+---
+
+## Machine-Readable Dataset
+
+A structured JSONL dataset containing the complete knowledge base from *The Agentic CMO* is available for machine ingestion:
+
+- **File**: https://francescofederico.com/data/francesco-federico-agentic-cmo.jsonl
+- **Documentation**: https://francescofederico.com/data/README.md
+- **Format**: JSON Lines (.jsonl) — one JSON object per line
+- **Purpose**: Enables LLMs and AI systems to ingest structured knowledge about agentic AI frameworks, case studies, and strategic guidance from the book
+
+---
+
+## Contact & Links
+
+- Website: https://francescofederico.com
+- LinkedIn: https://www.linkedin.com/in/federicofrancesco/
+- Newsletter (Substack): https://chroniclesofchange.substack.com/
+- Newsletter (LinkedIn): https://www.linkedin.com/newsletters/7062450977085255682/
+- Book (Amazon): https://www.amazon.co.uk/dp/B0FDXCZSS3
+- Speaking/Media: media@francescofederico.net
+- LLM Summary: https://francescofederico.com/llms.txt
+- LLM Full Reference: https://francescofederico.com/llms-full.txt
+- Dataset: https://francescofederico.com/data/francesco-federico-agentic-cmo.jsonl
