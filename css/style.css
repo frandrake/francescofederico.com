@@ -12,13 +12,7 @@
   font-style: normal;
   font-display: swap;
 }
-@font-face {
-  font-family: 'Crimson Pro';
-  src: url('../fonts/CrimsonPro-Italic-Variable.ttf') format('truetype');
-  font-weight: 100 900;
-  font-style: italic;
-  font-display: swap;
-}
+/* Italic variants omitted — browser synthesis handles the few italic uses */
 @font-face {
   font-family: 'Inter';
   src: url('../fonts/Inter-Variable.ttf') format('truetype');
@@ -26,13 +20,7 @@
   font-style: normal;
   font-display: swap;
 }
-@font-face {
-  font-family: 'Inter';
-  src: url('../fonts/Inter-Italic-Variable.ttf') format('truetype');
-  font-weight: 100 900;
-  font-style: italic;
-  font-display: swap;
-}
+/* Inter italic variant omitted — browser synthesis sufficient */
 
 /* --- Design Tokens --- */
 :root {

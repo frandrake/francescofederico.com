@@ -1,0 +1,16 @@
+{
+  "name": "Francesco Federico",
+  "short_name": "FF",
+  "description": "Francesco Federico — Global CMO, Author, Non-Executive Director",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F8F9FA",
+  "theme_color": "#4A5E7C",
+  "icons": [
+    {
+      "src": "/img/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
