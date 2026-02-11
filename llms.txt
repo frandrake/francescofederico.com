@@ -51,6 +51,10 @@ Global CMO operating at the intersection of marketing, AI, and business transfor
 - LinkedIn: https://www.linkedin.com/in/federicofrancesco/
 - Speaking/Media: media@francescofederico.net
 
+## Frameworks Page
+- URL: https://francescofederico.com/frameworks.html
+- Description: Dedicated page exploring the six strategic frameworks from The Agentic CMO — the PACE Model, Competency Model, Value Stack, Three Architectural Models, 90-Day Transformation Plan, and BCG S-Curve application.
+
 ## Key Frameworks (from The Agentic CMO)
 - PACE Model: Perception, Action, Reasoning, Learning — for assessing agentic AI maturity
 - Agentic CMO Competency Model: 12 competencies across 4 domains

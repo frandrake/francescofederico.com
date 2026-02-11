@@ -140,6 +140,10 @@ The age of marketing automation is ending. The era of marketing autonomy has beg
 2. **Organisational Design Over Tool Selection** — Tools evolve faster than any book can document. Team structures, governance models, and role definitions endure.
 3. **Scale, Not Pilots** — Most organisations are stuck in pilot purgatory. The book maps the path from experimentation to enterprise-wide transformation, drawing on BCG's S-curve model.
 
+### Frameworks Page
+- URL: https://francescofederico.com/frameworks.html
+- Description: Dedicated page with in-depth explanations of all six strategic frameworks from The Agentic CMO. Covers the PACE Model (Perception, Action, Reasoning, Learning), the Agentic CMO Competency Model (12 competencies across AI Literacy, Change Leadership, Ethical Governance, Technical Fluency), the Value Stack (Efficiency → Enhancement → Strategic Value), Three Architectural Models (Hub-and-Spoke, Embedded, Hybrid Collaborative), the 90-Day Agentic Transformation Plan (Assessment → Pilot → Scale), and the BCG S-Curve Model Application for moving from pilot purgatory to enterprise-scale AI value creation.
+
 ### Key Frameworks
 
 #### The PACE Model
