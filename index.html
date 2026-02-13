@@ -25,21 +25,107 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Francesco Federico",
-    "url": "https://francescofederico.com",
-    "description": "Personal website of Francesco Federico — Global CMO, Author, Non-Executive Director",
-    "author": {
-      "@type": "Person",
-      "name": "Francesco Federico",
-      "jobTitle": "Global Chief Marketing Officer",
-      "worksFor": {"@type": "Organization", "name": "S&P Global"},
-      "url": "https://francescofederico.com",
-      "sameAs": [
-        "https://www.linkedin.com/in/federicofrancesco/",
-        "https://chroniclesofchange.substack.com/"
-      ]
-    }
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://francescofederico.com/#person",
+        "name": "Francesco Federico",
+        "givenName": "Francesco",
+        "familyName": "Federico",
+        "alternateName": "The Milanese Futurist",
+        "jobTitle": "Global Chief Marketing Officer",
+        "description": "Global CMO at S&P Global, author of The Agentic CMO, and publisher of Chronicles of Change. Specialises in agentic AI, marketing transformation, and hybrid human-AI organisational design.",
+        "url": "https://francescofederico.com",
+        "image": "https://francescofederico.com/img/headshot.png",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "S&P Global",
+          "url": "https://www.spglobal.com"
+        },
+        "alumniOf": [
+          {"@type": "EducationalOrganization", "name": "Università Cattolica del Sacro Cuore", "url": "https://www.unicatt.it"},
+          {"@type": "EducationalOrganization", "name": "INSEAD", "url": "https://www.insead.edu"},
+          {"@type": "EducationalOrganization", "name": "Harvard University", "url": "https://www.harvard.edu"},
+          {"@type": "EducationalOrganization", "name": "IMD Business School", "url": "https://www.imd.org"},
+          {"@type": "EducationalOrganization", "name": "IE Business School", "url": "https://www.ie.edu"}
+        ],
+        "hasCredential": [{
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "degree",
+          "name": "Doctor of Law",
+          "recognizedBy": {"@type": "EducationalOrganization", "name": "Università Cattolica del Sacro Cuore"}
+        }],
+        "memberOf": [
+          {"@type": "Organization", "name": "Chartered Institute of Marketing", "url": "https://www.cim.co.uk"},
+          {"@type": "Organization", "name": "World Economic Forum Strategic Communicators Exchange"},
+          {"@type": "Organization", "name": "CMO Council", "url": "https://www.cmocouncil.org"}
+        ],
+        "award": [
+          "CMO to Watch 2025 — Digital Experience Awards",
+          "The B2B CMO 100 — The Drum",
+          "Vodafone Online Innovation Award"
+        ],
+        "knowsAbout": ["Agentic AI", "Marketing Transformation", "Digital Transformation", "Marketing Technology", "Human-AI Hybrid Organisations", "AI Governance", "B2B Marketing", "Enterprise AI Strategy"],
+        "knowsLanguage": ["English", "Italian", "French", "Spanish"],
+        "sameAs": [
+          "https://www.linkedin.com/in/federicofrancesco/",
+          "https://chroniclesofchange.substack.com/",
+          "https://www.linkedin.com/newsletters/7062450977085255682/",
+          "https://www.amazon.co.uk/stores/Francesco-Federico/author/B0FDLQRVG8",
+          "https://huggingface.co/datasets/frandrake/francesco-federico-agentic-cmo"
+        ]
+      },
+      {
+        "@type": "Book",
+        "@id": "https://francescofederico.com/#book",
+        "name": "The Agentic CMO: A Playbook for the Hybrid Marketing Team",
+        "alternateName": "The Agentic CMO",
+        "author": {"@id": "https://francescofederico.com/#person"},
+        "datePublished": "2025-06",
+        "inLanguage": "en",
+        "numberOfPages": 498,
+        "bookFormat": "https://schema.org/EBook",
+        "genre": ["Business", "Marketing", "Artificial Intelligence", "Leadership"],
+        "description": "The strategic blueprint for marketing leaders navigating the transition from automation to autonomy through agentic AI. Covers the PACE Model, hybrid human-AI organisational design, governance frameworks, and a 90-day transformation plan across 16 chapters.",
+        "url": "https://francescofederico.com/the-agentic-cmo",
+        "image": "https://francescofederico.com/img/book-cover.png",
+        "workExample": {
+          "@type": "Book",
+          "isbn": "B0FDXCZSS3",
+          "bookFormat": "https://schema.org/EBook",
+          "url": "https://www.amazon.co.uk/dp/B0FDXCZSS3"
+        },
+        "keywords": "agentic AI, CMO, marketing transformation, hybrid teams, AI governance, PACE model"
+      },
+      {
+        "@type": "Periodical",
+        "@id": "https://francescofederico.com/#newsletter",
+        "name": "Chronicles of Change",
+        "author": {"@id": "https://francescofederico.com/#person"},
+        "description": "Weekly newsletter analysing enterprise AI developments, agentic systems, and strategic guidance for senior business leaders navigating technology transformation.",
+        "inLanguage": "en",
+        "isAccessibleForFree": true,
+        "url": "https://chroniclesofchange.substack.com/",
+        "sameAs": ["https://www.linkedin.com/newsletters/7062450977085255682/"],
+        "dateCreated": "2023-06",
+        "keywords": "AI, enterprise technology, marketing transformation, agentic AI, business strategy"
+      },
+      {
+        "@type": "ProfilePage",
+        "dateCreated": "2025-01-01",
+        "dateModified": "2026-02-13",
+        "mainEntity": {"@id": "https://francescofederico.com/#person"}
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://francescofederico.com/#website",
+        "name": "Francesco Federico",
+        "url": "https://francescofederico.com",
+        "description": "Personal website of Francesco Federico — Global CMO at S&P Global, author of The Agentic CMO, publisher of Chronicles of Change.",
+        "author": {"@id": "https://francescofederico.com/#person"},
+        "inLanguage": "en"
+      }
+    ]
   }
   </script>
 </head>
