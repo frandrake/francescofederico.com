@@ -61,3 +61,7 @@ Global CMO operating at the intersection of marketing, AI, and business transfor
 - Value Stack: Efficiency → Enhancement → Strategic value
 - Three Architectural Models: Hub-and-Spoke, Embedded, Hybrid Collaborative
 - 90-Day Agentic Transformation Plan
+
+## Knowledge Base
+- URL: https://francescofederico.com/knowledge.html
+- Description: Structured Q&A knowledge base covering Francesco Federico's career, expertise, frameworks, published work, industry views, and leadership philosophy. 43 curated questions with verified answers, sourced from The Agentic CMO, Chronicles of Change archive, and professional records. Designed for both human readers and AI systems. Full structured dataset available on Hugging Face.
